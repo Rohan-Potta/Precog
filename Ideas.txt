@@ -1,0 +1,13 @@
+Check infinite path length 
+Check strongly connected
+
+check the timestamp dates and see how it looks , to maybe find out how many publications in every year or when there is  a conference every month,
+Using the temporal community can we predict the making of a new paper or when it can be published?
+See how fast the community is building and so on?
+
+
+
+Check how to make a GNN for link prediction, then remove say half of the found community and see if that community is loosing their vlaue?
+Maybe from the predicted links you can predict what kind of paper you can make in the future from the previously given citation?
+From say a predicting a missing link can the community of papers grow stronger or weaker?
+
